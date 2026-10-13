@@ -1,0 +1,317 @@
+{
+ "fetchedAt": "2026-10-13T18:30:31.026213+00:00",
+ "feeds": {
+  "rss-google-research": {
+   "sourceName": "Google Research",
+   "originUrl": "https://research.google/blog/rss/",
+   "items": [
+    {
+     "title": "Does better work always mean better workers?",
+     "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+     "publishedAt": "2026-10-07T20:19:57+00:00",
+     "author": null
+    },
+    {
+     "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+     "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+     "publishedAt": "2026-10-06T15:05:11+00:00",
+     "author": null
+    },
+    {
+     "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+     "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+     "publishedAt": "2026-10-05T21:08:00+00:00",
+     "author": null
+    },
+    {
+     "title": "Toward provably private learning from federated data",
+     "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+     "publishedAt": "2026-10-02T14:57:41+00:00",
+     "author": null
+    },
+    {
+     "title": "How Diffusion Controller unifies and simplifies AI image generation",
+     "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+     "publishedAt": "2026-09-29T18:38:27+00:00",
+     "author": null
+    },
+    {
+     "title": "Automating coherent long-form video generation",
+     "url": "https://research.google/blog/coherent-long-form-video-generation/",
+     "publishedAt": "2026-09-24T19:40:00+00:00",
+     "author": null
+    },
+    {
+     "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+     "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+     "publishedAt": "2026-09-18T17:46:09+00:00",
+     "author": null
+    },
+    {
+     "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+     "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+     "publishedAt": "2026-09-17T20:45:00+00:00",
+     "author": null
+    },
+    {
+     "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+     "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+     "publishedAt": "2026-09-15T20:00:00+00:00",
+     "author": null
+    },
+    {
+     "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+     "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+     "publishedAt": "2026-09-10T22:50:22+00:00",
+     "author": null
+    },
+    {
+     "title": "Transfer learning for genomic prediction in underrepresented populations",
+     "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+     "publishedAt": "2026-09-03T18:20:31+00:00",
+     "author": null
+    },
+    {
+     "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+     "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+     "publishedAt": "2026-09-03T16:00:00+00:00",
+     "author": null
+    },
+    {
+     "title": "Mapping global methane emissions from space with deep learning",
+     "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+     "publishedAt": "2026-09-01T18:40:00+00:00",
+     "author": null
+    },
+    {
+     "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+     "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+     "publishedAt": "2026-08-31T17:19:00+00:00",
+     "author": null
+    },
+    {
+     "title": "Planetary prediction engine: Automating global models via Earth AI",
+     "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+     "publishedAt": "2026-08-27T17:37:00+00:00",
+     "author": null
+    },
+    {
+     "title": "GlucoFM: Foundation model for continuous glucose monitoring",
+     "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+     "publishedAt": "2026-08-26T18:42:43+00:00",
+     "author": null
+    },
+    {
+     "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+     "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+     "publishedAt": "2026-08-25T19:10:59+00:00",
+     "author": null
+    },
+    {
+     "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
+     "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+     "publishedAt": "2026-08-21T17:02:24+00:00",
+     "author": null
+    },
+    {
+     "title": "How mobility gives language models a deeper understanding of place",
+     "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+     "publishedAt": "2026-08-21T10:54:00+00:00",
+     "author": null
+    },
+    {
+     "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+     "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+     "publishedAt": "2026-08-17T10:34:00+00:00",
+     "author": null
+    },
+    {
+     "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
+     "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
+     "publishedAt": "2026-08-12T09:51:00+00:00",
+     "author": null
+    },
+    {
+     "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
+     "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
+     "publishedAt": "2026-08-11T17:04:00+00:00",
+     "author": null
+    },
+    {
+     "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
+     "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+     "publishedAt": "2026-07-30T20:36:36+00:00",
+     "author": null
+    },
+    {
+     "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
+     "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
+     "publishedAt": "2026-07-22T21:32:00+00:00",
+     "author": null
+    },
+    {
+     "title": "Towards a quantum computer that learns from its errors",
+     "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+     "publishedAt": "2026-07-22T18:40:21+00:00",
+     "author": null
+    }
+   ]
+  },
+  "rss-mistral": {
+   "sourceName": "Mistral AI",
+   "originUrl": "https://mistral.ai/rss.xml",
+   "items": [
+    {
+     "title": "Introducing Mistral Large 4",
+     "url": "https://mistral.ai/news/mistral-large-4/",
+     "publishedAt": "2026-10-06T12:00:27+00:00",
+     "author": null
+    },
+    {
+     "title": "Hallo, Deutschland!",
+     "url": "https://mistral.ai/news/hallo-deutschland/",
+     "publishedAt": "2026-09-28T15:57:59+00:00",
+     "author": null
+    },
+    {
+     "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+     "url": "https://mistral.ai/news/mistral-x-mozilla/",
+     "publishedAt": "2026-09-16T12:00:00+00:00",
+     "author": null
+    },
+    {
+     "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+     "url": "https://mistral.ai/news/mistral-x-cloudera/",
+     "publishedAt": "2026-09-10T10:42:55+00:00",
+     "author": null
+    },
+    {
+     "title": "Modernizing complex legacy code with AI agents.",
+     "url": "https://mistral.ai/news/legacy-code-modernization/",
+     "publishedAt": "2026-09-09T12:00:46+00:00",
+     "author": null
+    },
+    {
+     "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+     "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+     "publishedAt": "2026-09-08T12:00:22+00:00",
+     "author": null
+    },
+    {
+     "title": "Mistral x HUMAIN",
+     "url": "https://mistral.ai/news/mistral-x-humain/",
+     "publishedAt": "2026-08-24T16:02:41+00:00",
+     "author": null
+    },
+    {
+     "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+     "url": "https://mistral.ai/news/agentic-search/",
+     "publishedAt": "2026-08-20T12:00:17+00:00",
+     "author": null
+    },
+    {
+     "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+     "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+     "publishedAt": "2026-08-11T12:00:27+00:00",
+     "author": null
+    },
+    {
+     "title": "Introducing Shieldstral.",
+     "url": "https://mistral.ai/news/shieldstral/",
+     "publishedAt": "2026-08-04T12:00:26+00:00",
+     "author": null
+    },
+    {
+     "title": "Your Prompts and Skills need a system of record.",
+     "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
+     "publishedAt": "2026-07-09T12:00:00+00:00",
+     "author": null
+    },
+    {
+     "title": "Introducing Robostral Navigate",
+     "url": "https://mistral.ai/news/robostral-navigate/",
+     "publishedAt": "2026-07-08T12:00:59+00:00",
+     "author": null
+    },
+    {
+     "title": "Leanstral 1.5: Proof Abundance for All",
+     "url": "https://mistral.ai/news/leanstral-1-5/",
+     "publishedAt": "2026-07-02T13:55:54+00:00",
+     "author": null
+    },
+    {
+     "title": "Bringing more control over your connectors",
+     "url": "https://mistral.ai/news/more-control-over-connectors/",
+     "publishedAt": "2026-06-24T12:00:30+00:00",
+     "author": null
+    },
+    {
+     "title": "Introducing Mistral OCR 4",
+     "url": "https://mistral.ai/news/ocr-4/",
+     "publishedAt": "2026-06-23T12:00:48+00:00",
+     "author": null
+    },
+    {
+     "title": "AI Now Summit 2026",
+     "url": "https://mistral.ai/news/ai-now-summit-2026/",
+     "publishedAt": "2026-05-28T12:00:20+00:00",
+     "author": null
+    },
+    {
+     "title": "Vibe gets to work.",
+     "url": "https://mistral.ai/news/vibe-agent/",
+     "publishedAt": "2026-05-28T12:00:09+00:00",
+     "author": null
+    },
+    {
+     "title": "Introducing Search Toolkit",
+     "url": "https://mistral.ai/news/search-toolkit/",
+     "publishedAt": "2026-05-28T11:42:21+00:00",
+     "author": null
+    },
+    {
+     "title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+     "url": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
+     "publishedAt": "2026-05-27T12:00:55+00:00",
+     "author": null
+    },
+    {
+     "title": "Physics AI research that’s shaping the industry.",
+     "url": "https://mistral.ai/news/physics-ai-research/",
+     "publishedAt": "2026-05-27T12:00:05+00:00",
+     "author": null
+    },
+    {
+     "title": "Emmi joins Mistral to accelerate the AI-native industry",
+     "url": "https://mistral.ai/news/accelerate-ai-native-industry/",
+     "publishedAt": "2026-05-23T12:00:26+00:00",
+     "author": null
+    },
+    {
+     "title": "Remote agents in Vibe. Powered by Mistral Medium 3.5.",
+     "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
+     "publishedAt": "2026-05-22T15:01:55+00:00",
+     "author": null
+    },
+    {
+     "title": "Connect the dots: Build with built-in and custom MCPs in Studio",
+     "url": "https://mistral.ai/news/connectors/",
+     "publishedAt": "2026-05-22T14:48:28+00:00",
+     "author": null
+    },
+    {
+     "title": "Workflows for work that runs the business",
+     "url": "https://mistral.ai/news/workflows/",
+     "publishedAt": "2026-04-27T12:00:23+00:00",
+     "author": null
+    },
+    {
+     "title": "Spaces: A CLI Built for Humans and Agents",
+     "url": "https://mistral.ai/news/spaces/",
+     "publishedAt": "2026-03-31T12:00:00+00:00",
+     "author": null
+    }
+   ]
+  }
+ }
+}
