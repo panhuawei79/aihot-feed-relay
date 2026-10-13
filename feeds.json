@@ -1,0 +1,22 @@
+{
+  "feeds": [
+    {
+      "sourceId": "rss-google-research",
+      "sourceName": "Google Research",
+      "url": "https://research.google/blog/rss/",
+      "maxItems": 25
+    },
+    {
+      "sourceId": "rss-import-ai",
+      "sourceName": "Import AI",
+      "url": "https://importai.substack.com/feed",
+      "maxItems": 10
+    },
+    {
+      "sourceId": "rss-mistral",
+      "sourceName": "Mistral AI",
+      "url": "https://mistral.ai/rss.xml",
+      "maxItems": 25
+    }
+  ]
+}
