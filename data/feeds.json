@@ -1,10 +1,16 @@
 {
- "fetchedAt": "2026-10-16T14:10:37.314761+00:00",
+ "fetchedAt": "2026-10-16T18:15:49.289187+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
    "originUrl": "https://research.google/blog/rss/",
    "items": [
+    {
+     "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+     "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+     "publishedAt": "2026-10-16T18:11:34+00:00",
+     "author": null
+    },
     {
      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
@@ -147,12 +153,6 @@
      "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
      "publishedAt": "2026-08-12T09:51:00+00:00",
-     "author": null
-    },
-    {
-     "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
-     "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
-     "publishedAt": "2026-08-11T17:04:00+00:00",
      "author": null
     }
    ]
