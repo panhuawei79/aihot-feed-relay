@@ -1,10 +1,16 @@
 {
- "fetchedAt": "2026-10-21T16:02:20.204351+00:00",
+ "fetchedAt": "2026-10-21T20:17:27.211194+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
    "originUrl": "https://research.google/blog/rss/",
    "items": [
+    {
+     "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+     "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+     "publishedAt": "2026-10-21T16:23:53+00:00",
+     "author": null
+    },
     {
      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
@@ -147,12 +153,6 @@
      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
      "publishedAt": "2026-08-17T10:34:00+00:00",
-     "author": null
-    },
-    {
-     "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
-     "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
-     "publishedAt": "2026-08-12T09:51:00+00:00",
      "author": null
     }
    ]
