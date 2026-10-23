@@ -1,10 +1,16 @@
 {
- "fetchedAt": "2026-10-23T15:49:27.370853+00:00",
+ "fetchedAt": "2026-10-23T19:46:52.163039+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
    "originUrl": "https://research.google/blog/rss/",
    "items": [
+    {
+     "title": "Bringing foundational models to the front lines of TB screening",
+     "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+     "publishedAt": "2026-10-23T18:51:33+00:00",
+     "author": null
+    },
     {
      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
@@ -147,12 +153,6 @@
      "title": "How mobility gives language models a deeper understanding of place",
      "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
      "publishedAt": "2026-08-21T10:54:00+00:00",
-     "author": null
-    },
-    {
-     "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-     "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-     "publishedAt": "2026-08-17T10:34:00+00:00",
      "author": null
     }
    ]
