@@ -1,10 +1,16 @@
 {
- "fetchedAt": "2026-10-27T15:57:03.433663+00:00",
+ "fetchedAt": "2026-10-27T20:30:31.741480+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
    "originUrl": "https://research.google/blog/rss/",
    "items": [
+    {
+     "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+     "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+     "publishedAt": "2026-10-27T17:35:00+00:00",
+     "author": null
+    },
     {
      "title": "Bringing foundational models to the front lines of TB screening",
      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
@@ -147,12 +153,6 @@
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
      "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
      "publishedAt": "2026-08-21T17:02:24+00:00",
-     "author": null
-    },
-    {
-     "title": "How mobility gives language models a deeper understanding of place",
-     "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
-     "publishedAt": "2026-08-21T10:54:00+00:00",
      "author": null
     }
    ]
