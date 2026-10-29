@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-29T09:21:01.053496+00:00",
+ "fetchedAt": "2026-10-29T16:19:44.514361+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
@@ -162,6 +162,12 @@
    "originUrl": "https://mistral.ai/rss.xml",
    "items": [
     {
+     "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/",
+     "publishedAt": "2026-10-29T12:00:07+00:00",
+     "author": null
+    },
+    {
      "title": "Mistral Advances AI for Engineering with NVIDIA",
      "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
      "publishedAt": "2026-10-21T12:00:20+00:00",
@@ -303,12 +309,6 @@
      "title": "Emmi joins Mistral to accelerate the AI-native industry",
      "url": "https://mistral.ai/news/accelerate-ai-native-industry/",
      "publishedAt": "2026-05-23T12:00:26+00:00",
-     "author": null
-    },
-    {
-     "title": "Remote agents in Vibe. Powered by Mistral Medium 3.5.",
-     "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
-     "publishedAt": "2026-05-22T15:01:55+00:00",
      "author": null
     }
    ]
