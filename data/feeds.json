@@ -1,10 +1,16 @@
 {
- "fetchedAt": "2026-11-04T15:05:49.583181+00:00",
+ "fetchedAt": "2026-11-04T21:23:49.860073+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
    "originUrl": "https://research.google/blog/rss/",
    "items": [
+    {
+     "title": "Agile Deliberation: How AI helps humans define the gray areas",
+     "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+     "publishedAt": "2026-11-04T18:07:05+00:00",
+     "author": null
+    },
     {
      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
@@ -147,12 +153,6 @@
      "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
      "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
      "publishedAt": "2026-08-25T19:10:59+00:00",
-     "author": null
-    },
-    {
-     "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
-     "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
-     "publishedAt": "2026-08-21T17:02:24+00:00",
      "author": null
     }
    ]
