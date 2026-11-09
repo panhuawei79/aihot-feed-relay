@@ -1,10 +1,16 @@
 {
- "fetchedAt": "2026-11-09T10:04:08.586611+00:00",
+ "fetchedAt": "2026-11-09T20:56:21.439484+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
    "originUrl": "https://research.google/blog/rss/",
    "items": [
+    {
+     "title": "Exploring the world's languages with Language Explorer",
+     "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+     "publishedAt": "2026-11-09T20:29:39+00:00",
+     "author": null
+    },
     {
      "title": "Detecting signs of hypertension using wearable sensors",
      "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
@@ -38,7 +44,7 @@
     {
      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-     "publishedAt": "2026-10-16T18:11:34+00:00",
+     "publishedAt": "2026-10-16T18:11:00+00:00",
      "author": null
     },
     {
@@ -147,12 +153,6 @@
      "title": "Planetary prediction engine: Automating global models via Earth AI",
      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
      "publishedAt": "2026-08-27T17:37:00+00:00",
-     "author": null
-    },
-    {
-     "title": "GlucoFM: Foundation model for continuous glucose monitoring",
-     "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
-     "publishedAt": "2026-08-26T18:42:43+00:00",
      "author": null
     }
    ]
