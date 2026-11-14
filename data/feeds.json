@@ -1,10 +1,16 @@
 {
- "fetchedAt": "2026-11-13T20:46:57.049491+00:00",
+ "fetchedAt": "2026-11-14T01:17:30.043363+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
    "originUrl": "https://research.google/blog/rss/",
    "items": [
+    {
+     "title": "Advancing science & engineering with Antigravity’s /teamwork",
+     "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+     "publishedAt": "2026-11-13T20:47:18+00:00",
+     "author": null
+    },
     {
      "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
      "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
@@ -147,12 +153,6 @@
      "title": "Mapping global methane emissions from space with deep learning",
      "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
      "publishedAt": "2026-09-01T18:40:00+00:00",
-     "author": null
-    },
-    {
-     "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-     "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
-     "publishedAt": "2026-08-31T17:19:00+00:00",
      "author": null
     }
    ]
