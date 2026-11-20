@@ -1,10 +1,16 @@
 {
- "fetchedAt": "2026-11-19T19:21:08.309835+00:00",
+ "fetchedAt": "2026-11-20T01:23:21.493183+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
    "originUrl": "https://research.google/blog/rss/",
    "items": [
+    {
+     "title": "A game you cannot win unless you have a quantum computer",
+     "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+     "publishedAt": "2026-11-19T20:03:00+00:00",
+     "author": null
+    },
     {
      "title": "Advancing science & engineering with Antigravity’s /teamwork",
      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
@@ -147,12 +153,6 @@
      "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
      "publishedAt": "2026-09-03T16:00:00+00:00",
-     "author": null
-    },
-    {
-     "title": "Mapping global methane emissions from space with deep learning",
-     "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
-     "publishedAt": "2026-09-01T18:40:00+00:00",
      "author": null
     }
    ]
