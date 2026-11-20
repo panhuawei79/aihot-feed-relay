@@ -1,10 +1,16 @@
 {
- "fetchedAt": "2026-11-20T17:32:18.711918+00:00",
+ "fetchedAt": "2026-11-20T23:40:53.946322+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
    "originUrl": "https://research.google/blog/rss/",
    "items": [
+    {
+     "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+     "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+     "publishedAt": "2026-11-20T23:30:30+00:00",
+     "author": null
+    },
     {
      "title": "A game you cannot win unless you have a quantum computer",
      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
@@ -147,12 +153,6 @@
      "title": "Transfer learning for genomic prediction in underrepresented populations",
      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
      "publishedAt": "2026-09-03T18:20:31+00:00",
-     "author": null
-    },
-    {
-     "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
-     "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
-     "publishedAt": "2026-09-03T16:00:00+00:00",
      "author": null
     }
    ]
