@@ -1,10 +1,16 @@
 {
- "fetchedAt": "2026-11-23T11:01:16.922941+00:00",
+ "fetchedAt": "2026-11-23T22:49:20.347548+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
    "originUrl": "https://research.google/blog/rss/",
    "items": [
+    {
+     "title": "Supercharging transformer residual connections",
+     "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+     "publishedAt": "2026-11-23T17:21:12+00:00",
+     "author": null
+    },
     {
      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
@@ -147,12 +153,6 @@
      "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
      "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
      "publishedAt": "2026-09-10T22:50:22+00:00",
-     "author": null
-    },
-    {
-     "title": "Transfer learning for genomic prediction in underrepresented populations",
-     "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-     "publishedAt": "2026-09-03T18:20:31+00:00",
      "author": null
     }
    ]
