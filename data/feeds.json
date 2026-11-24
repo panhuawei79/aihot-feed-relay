@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-23T22:49:20.347548+00:00",
+ "fetchedAt": "2026-11-24T06:45:18.859519+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
@@ -154,6 +154,72 @@
      "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
      "publishedAt": "2026-09-10T22:50:22+00:00",
      "author": null
+    }
+   ]
+  },
+  "rss-import-ai": {
+   "sourceName": "Import AI",
+   "originUrl": "https://importai.substack.com/feed",
+   "items": [
+    {
+     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+     "publishedAt": "2026-11-23T14:11:17+00:00",
+     "author": "Jack Clark"
+    },
+    {
+     "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+     "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+     "publishedAt": "2026-11-16T14:01:15+00:00",
+     "author": "Jack Clark"
+    },
+    {
+     "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+     "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+     "publishedAt": "2026-11-09T13:31:34+00:00",
+     "author": "Jack Clark"
+    },
+    {
+     "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+     "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+     "publishedAt": "2026-11-02T14:30:54+00:00",
+     "author": "Jack Clark"
+    },
+    {
+     "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+     "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+     "publishedAt": "2026-10-26T12:31:52+00:00",
+     "author": "Jack Clark"
+    },
+    {
+     "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+     "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+     "publishedAt": "2026-10-19T12:31:37+00:00",
+     "author": "Jack Clark"
+    },
+    {
+     "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+     "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+     "publishedAt": "2026-10-12T12:30:39+00:00",
+     "author": "Jack Clark"
+    },
+    {
+     "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+     "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+     "publishedAt": "2026-10-05T12:32:30+00:00",
+     "author": "Jack Clark"
+    },
+    {
+     "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+     "url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+     "publishedAt": "2026-09-28T12:32:03+00:00",
+     "author": "Jack Clark"
+    },
+    {
+     "title": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+     "url": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
+     "publishedAt": "2026-09-21T12:31:04+00:00",
+     "author": "Jack Clark"
     }
    ]
   },
