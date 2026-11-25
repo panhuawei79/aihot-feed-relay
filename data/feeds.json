@@ -1,10 +1,16 @@
 {
- "fetchedAt": "2026-11-25T12:14:59.783325+00:00",
+ "fetchedAt": "2026-11-25T21:54:45.949261+00:00",
  "feeds": {
   "rss-google-research": {
    "sourceName": "Google Research",
    "originUrl": "https://research.google/blog/rss/",
    "items": [
+    {
+     "title": "Verifiable Social Reasoning for LLM Assistants",
+     "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+     "publishedAt": "2026-11-25T17:10:27+00:00",
+     "author": null
+    },
     {
      "title": "Supercharging transformer residual connections",
      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
@@ -147,12 +153,6 @@
      "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
      "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
      "publishedAt": "2026-09-15T20:00:00+00:00",
-     "author": null
-    },
-    {
-     "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-     "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-     "publishedAt": "2026-09-10T22:50:22+00:00",
      "author": null
     }
    ]
